@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "F:\\repos\\OrderProcessingApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75354A9D-E3AC-4A92-8EA4-EF3C24224013}|OrderProcessingTests\\OrderProcessingTests.csproj|f:\\repos\\orderprocessingapp\\orderprocessingtests\\ordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75354A9D-E3AC-4A92-8EA4-EF3C24224013}|OrderProcessingTests\\OrderProcessingTests.csproj|solutionrelative:orderprocessingtests\\ordertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{194EB30B-9621-498A-9A97-495C284095E6}|OrderProcessing\\OrderProcessing.csproj|f:\\repos\\orderprocessingapp\\orderprocessing\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{194EB30B-9621-498A-9A97-495C284095E6}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,24 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\repos\\OrderProcessingApp\\OrderProcessing\\Program.cs",
-              "RelativeDocumentMoniker": "OrderProcessing\\Program.cs",
-              "ToolTip": "F:\\repos\\OrderProcessingApp\\OrderProcessing\\Program.cs",
-              "RelativeToolTip": "OrderProcessing\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "OrderTests.cs",
+              "DocumentMoniker": "F:\\repos\\OrderProcessingApp\\OrderProcessingTests\\OrderTests.cs",
+              "RelativeDocumentMoniker": "OrderProcessingTests\\OrderTests.cs",
+              "ToolTip": "F:\\repos\\OrderProcessingApp\\OrderProcessingTests\\OrderTests.cs",
+              "RelativeToolTip": "OrderProcessingTests\\OrderTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T07:56:24.47Z",
+              "WhenOpened": "2025-03-16T08:38:31.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Result.cshtml",
               "DocumentMoniker": "F:\\repos\\OrderProcessingApp\\OrderProcessing\\Views\\Order\\Result.cshtml",
               "RelativeDocumentMoniker": "OrderProcessing\\Views\\Order\\Result.cshtml",
@@ -55,12 +59,11 @@
               "RelativeToolTip": "OrderProcessing\\Views\\Order\\Result.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T07:56:02.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T07:56:02.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\repos\\OrderProcessingApp\\OrderProcessing\\Views\\Order\\Index.cshtml",
               "RelativeDocumentMoniker": "OrderProcessing\\Views\\Order\\Index.cshtml",
@@ -68,12 +71,11 @@
               "RelativeToolTip": "OrderProcessing\\Views\\Order\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T07:55:37.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T07:55:37.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "OrderModel.cs",
               "DocumentMoniker": "F:\\repos\\OrderProcessingApp\\OrderProcessing\\Models\\OrderModel.cs",
               "RelativeDocumentMoniker": "OrderProcessing\\Models\\OrderModel.cs",
@@ -81,21 +83,32 @@
               "RelativeToolTip": "OrderProcessing\\Models\\OrderModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T07:54:59.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T07:54:59.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OrderController.cs",
               "DocumentMoniker": "F:\\repos\\OrderProcessingApp\\OrderProcessing\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "OrderProcessing\\Controllers\\OrderController.cs",
               "ToolTip": "F:\\repos\\OrderProcessingApp\\OrderProcessing\\Controllers\\OrderController.cs",
               "RelativeToolTip": "OrderProcessing\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T07:54:30.702Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\repos\\OrderProcessingApp\\OrderProcessing\\Program.cs",
+              "RelativeDocumentMoniker": "OrderProcessing\\Program.cs",
+              "ToolTip": "F:\\repos\\OrderProcessingApp\\OrderProcessing\\Program.cs",
+              "RelativeToolTip": "OrderProcessing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T07:56:24.47Z"
             }
           ]
         }
